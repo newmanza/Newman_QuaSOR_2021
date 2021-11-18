@@ -1,0 +1,2 @@
+# Newman_QuaSOR_2021
+Quantal Synaptic Optical Reconstruction (QuaSOR) Matlab pipeline for analysis of synaptic transmission and corresponding Matlab scripts for the analysis of synaptic nanostructures at the Drosophila neuromuscular junction. Includes scripts largely authored by Zachary Newman in the Isacoff Lab at UC Berkeley and used in the paper Newman et al., (2021) Determinants of synapse diversity revealed by super-resolution quantal transmission and active zone imaging.
